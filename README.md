@@ -1,4 +1,12 @@
-##--> The goal is to predict whether the customer will buy the Sedan car using the different Classification models like 
+### Data Preprocessing:
+
+Pre-processing refers to the transformations applied to our data before feeding it to the algorithm. 
+Data Preprocessing is a technique that is used to convert the raw data into a clean data set.
+In other words, whenever the data is gathered from different sources it is collected in raw format which is not feasible for the analysis.
+
+
+
+### --> The goal is to predict whether the customer will buy the Sedan car using the different Classification models like 
 1) -- Logistic 
 2) -- K-Nearest Neighbors(K-NN)
 3) -- Support Vector Machines(SVM)
